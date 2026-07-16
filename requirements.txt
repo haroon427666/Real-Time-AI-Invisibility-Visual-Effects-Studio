@@ -1,0 +1,8 @@
+# Complete, directly pinned desktop feature set.
+# Install with: python -m pip install -r requirements.txt
+numpy==2.3.5
+opencv-contrib-python==4.13.0.92
+Pillow==12.2.0
+mediapipe==0.10.35
+sounddevice==0.5.5
+pyvirtualcam==0.15.0

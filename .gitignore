@@ -1,0 +1,61 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Models and checkpoints
+models/
+weights/
+checkpoints/
+*.pt
+*.pth
+*.onnx
+*.engine
+*.tflite
+
+# Generated media
+outputs/
+screenshots/
+recordings/
+*.mp4
+*.avi
+*.mov
+*.wav
+
+# Runtime data
+logs/
+cache/
+tmp/
+*.log
+
+# Tests and tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+
+# Local configuration and secrets
+.env
+.env.*
+config.local.*
