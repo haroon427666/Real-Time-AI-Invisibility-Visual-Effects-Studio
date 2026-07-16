@@ -2,7 +2,7 @@
 
 <img src="docs/screenshots/advanced-ui.png" alt="PhantomVision Studio logo placeholder" width="120" />
 
-# 👻 PhantomVision Studio
+# 👻 Real-Time-AI-Invisibility-Visual-Effects-Studio
 
 ### Real-Time AI Invisibility & Visual Effects Studio
 
